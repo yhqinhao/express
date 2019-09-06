@@ -3,8 +3,8 @@
 ##函数定义
 >/**
   *jump  
-  *@param url    跳转地址  
-  *@param data   数据  
+  *@param url    跳转地址  <br/>
+  *@param data   数据  <br/>
   */  
   >
   S3.jump(url,data);
