@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
 * [s3js](s3js.md)
   * [简介](s3js/jian-jie.md)
   * [使用](s3js/shi-yong.md)
